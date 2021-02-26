@@ -5,15 +5,18 @@ import { CompletedChallenges } from '../components/CompletedChallenges';
 import { Countdown } from '../components/Countdown';
 
 import Head from 'next/head';
+import { ChallengeBox } from '../components/ChallengeBox';
+import { CountdownProvider } from '../contexts/CountdownContext';
 
 export default function Home() {
 
   return (
-      <div className={styles.container}>
-        <Head>
-          <title>Início | Move.it</title>
-        </Head>
-        <ExperienceBar />
+    <div className={styles.container}>
+      <Head>
+        <title>Início | Move.it</title>
+      </Head>
+      <ExperienceBar />
+      <CountdownProvider>
         <section>
           <div>
             <Profile />
@@ -21,9 +24,10 @@ export default function Home() {
             <Countdown />
           </div>
           <div>
-
+            <ChallengeBox />
           </div>
         </section>
-      </div>
+      </CountdownProvider>
+    </div>
   )
 }
