@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Move.it" title="Move.it" src=".github/moveit.svg" />
+    <img alt="Move.it" title="Move.it" src="/public/Capturar.PNG" />
 </h1>
 
 <p align="center">
@@ -56,7 +56,7 @@ $ yarn dev
 
 ## 💻 Project
 
-[Move.it](https://move-it-guilhermecapitao.vercel.app/) came to remind you to exercise always! 💜 
+[Move.it](https://nlw-move-it-sepia.vercel.app/) came to remind you to exercise always! 💜 
 
 This is a project developed during the **[Next Level Week](https://nextlevelweek.com/)**, presented by **[@Rocketseat](https://github.com/Rocketseat)** during February 22-28, 2021.
 
