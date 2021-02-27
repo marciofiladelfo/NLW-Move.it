@@ -1,6 +1,5 @@
-<h1 align="center">
-</h1>
-[Imgur](https://imgur.com/wK9d1OM)
+### Move.it
+- [Imgur](https://imgur.com/wK9d1OM)
 
 <p align="center">
   <a href="#technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
