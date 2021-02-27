@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Move.it" title="Move.it" src="[Imgur](https://imgur.com/wK9d1OM)" />
+    <blockquote class="imgur-embed-pub" lang="en" data-id="wK9d1OM"><a href="https://imgur.com/wK9d1OM">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 </h1>
 
 <p align="center">
